@@ -1,8 +1,8 @@
-title: nextjs-application-template
-description: A template for quickly starting Next.js application development
+title: housing-finders
+description: A final project for ICS 314, Fall 2024
 google_analytics:
 show_downloads: true
-theme: jekyll-theme-cayman
+theme: jekyll-theme-slate
 
 gems:
   - jekyll-mentions
