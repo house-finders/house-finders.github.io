@@ -1,4 +1,4 @@
-## Overview
+## Housing Finders - Final Project
 
 **The Problem:** UH’s out-of-state students, who are in search of affordable housing outside of dormitories, are faced with several challenges. Students that do not have connections with local residents will struggle to find trustworthy landlords to contact. To lower living costs, most of these students will also need to actively seek suitable roommates while managing other challenges related to moving for college. Additionally, safety is a crucial concern for students that live on their own as they are miles of ocean away from family, especially with the recent rise of criminal activity around the Manoa campus (the most populated campus). While students can live in the dorms, this also introduces several challenges, such as limited availability for each dormitory, a lack of private kitchen and bathroom, and mandatory meal plans that drive up living expenses. Furthermore, many students have also expressed concerns about the condition of the dorms.
 
@@ -38,7 +38,6 @@ Whether or not the following bullet points list all pages or not, the completed 
 * Landlord and admin interact to remove listing. (Prevent ghosting and fraud)
 * Landlord and admin interact to ban inappropriate usage
 * User and admin interact to ban inappropriate usage
-
 
 ## Beyond the basics
 
