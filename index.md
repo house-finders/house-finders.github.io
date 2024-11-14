@@ -4,11 +4,11 @@
 
 **The Solution:** A housing finder website that will help students connect with other students to find roommates, and to also help cultivate a community of trusted landlords that can offer housing for student tenants. This idea would benefit a community of people that need to rent out housing and benefit students that need a place to stay. Safety can be ensured by confirming each person’s identity if their profile is verified and up-to-date, and may also feature a rating system that displays comments from previous tenants. Potentially, different account roles can be included: landlords, guests, users, admin. There is also the potential of sharing geo-location as a feature to show how far users are from prospective renters using React.
 
-## Names of the proposers
+### Names of the proposers
 
 Ciara Kang, Deolian Domawa, Trevell Pruitt, Kyle Aipoalani, Michael Lee
 
-## Mockup page ideas
+### Mockup page ideas
 
 The Housing Finder website will include but are not limited to:
 * Landing page
@@ -24,7 +24,7 @@ The Housing Finder website will include but are not limited to:
 * Property page
 * Notify admin page
 
-## Use case ideas
+### Use case ideas
 
 Whether or not the following bullet points list all pages or not, the completed use case should show an end-to-end scenario of using the system.
 
@@ -39,7 +39,7 @@ Whether or not the following bullet points list all pages or not, the completed 
 * Landlord and admin interact to ban inappropriate usage
 * User and admin interact to ban inappropriate usage
 
-## Beyond the basics
+### Beyond the basics
 
 After implementing the basic functionality, here are ideas for more advanced features:
 
@@ -47,3 +47,11 @@ After implementing the basic functionality, here are ideas for more advanced fea
 * Map-based interface to show where properties are from every UH campus
 * Sorting feature for housings based on price, location from A to B, rating, etc.
 * Mobile-friendly interface
+
+## Application walkthrough
+
+The application differs depending on the role that you have on the website. You can be not logged-in or logged-in as an admin, customer, or landlord. Depending on the role that your account has, the application shows different information and options displayed.
+
+### Landing page
+When you first visit the page, it displays a page that looks like: 
+<br> <img src="./doc/landing-page.png" width="100%"> <br>
