@@ -8,6 +8,19 @@
 
 Ciara Kang, Deolian Domawa, Trevell Pruitt, Kyle Aipoalani, Michael Lee
 
+## Team Contract 
+View our team contract <a href="https://docs.google.com/document/d/1OPMXnWsIcY8U7ur1HiLvndvDN062rf0UwQRU0RcMYBI/edit?tab=t.0#heading=h.wfvnqsw5pp">here</a>.
+
+## Deployment Link on Vercel
+
+<a href="https://house-finders.vercel.app/">https://house-finders.vercel.app/</a>
+
+## Project Plans
+
+<a href="https://github.com/orgs/house-finders/projects/3">Milestone 1</a>
+
+<a href="https://github.com/orgs/house-finders/projects/6">Milestone 2</a>
+
 ### Mockup page ideas
 
 The Housing Finder website will include but are not limited to:
