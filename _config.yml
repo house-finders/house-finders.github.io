@@ -1,5 +1,5 @@
 title: Housing Finders
-description: [Deployed Website](https://house-finders.vercel.app/)
+description: <a href="https://house-finders.vercel.app/">A link to our web application</a>
 google_analytics:
 show_downloads: true
 theme: jekyll-theme-slate
