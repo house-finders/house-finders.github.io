@@ -20,6 +20,8 @@ See our web application at: <a href="https://house-finders.vercel.app/">https://
 
 <a href="https://github.com/orgs/house-finders/projects/6">Milestone 2</a>
 
+<a href="https://github.com/orgs/house-finders/projects/11">Milestone 3</a>
+
 ### Want to contribute?
 Click on this <a href="https://github.com/house-finders/house-finders">link</a> to access our github repository to contribute.
 
@@ -71,11 +73,19 @@ The application differs depending on the role that you have on the website. You 
 When you first visit the page, it displays a page that looks like: 
 <br> <img src="./doc/landing-page.png" width="100%"> <br>
 
-### Create a user
+### Logging in
 To use this web application, an account is needed. Press the sign up button on the top right to create an account.
 <br> <img src="./doc/sign-up-page.png" width="100%"> <br>
 When signing up, you will need an email and a password for the account. Additionally, the purpose for creating an account is also needed. This will determine the type of account that you will have, and allow you to access different parts of the application based on your role.
+
+If you already have an account with us, then you can skip the step above.
 <br>
+Instead click on the sign in button on the top right to log in.
+<br> <img src="./doc/sign-in-page.png" width = "100%"> <br>
+Please add your credentials to the appropriate boxes to login to your account.
+<br>
+
+###
 
 ### Landlords
 This section will go over what certain parts of the web application that relate to landlords. Feel free to skip this part if this does not pertain to you.
