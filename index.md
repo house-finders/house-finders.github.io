@@ -85,7 +85,9 @@ Instead click on the sign in button on the top right to log in.
 Please add your credentials to the appropriate boxes to login to your account.
 <br>
 
-###
+#### Seeing all the listings
+To see all the listings currently available, click on the "For Rent" button on the top. This will redirect you to a page listing out of all the listings made by all landlord users.
+<br> <img src="./doc/for-rent.png" width="100%"> <br>
 
 ### Landlords
 This section will go over what certain parts of the web application that relate to landlords. Feel free to skip this part if this does not pertain to you.
@@ -102,7 +104,7 @@ This includes:
  - The overall condition of the property
 
 #### Seeing your listings
-To see all the listing you made, click on the "See Properties" button on the top. This will redirect you to a page listing out all the listings that you made so far.
+To see all the listing you made, click on the "My Properties" button on the top. This will redirect you to a page listing out all the listings that you made so far.
 <br> <img src="./doc/show-property-listing.png" width="100%"> <br>
 
 ### Admin
