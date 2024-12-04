@@ -103,7 +103,7 @@ This includes:
 
 #### Seeing your listings
 To see all the listing you made, click on the "See Properties" button on the top. This will redirect you to a page listing out all the listings that you made so far.
-<br> <img src="./doc/show-property-listings.png" width="100%"> <br>
+<br> <img src="./doc/show-property-listing.png" width="100%"> <br>
 
 ### Admin
 As an admin, you will be able to see all the accounts created on this web application. Please note that you will not be able to access this page if you are not an admin. The accounts will be listed like this:
