@@ -25,56 +25,67 @@ See our web application at: <a href="https://house-finders.vercel.app/">https://
 ### Want to contribute?
 Click on this <a href="https://github.com/house-finders/house-finders">link</a> to access our github repository to contribute.
 
-### Mockup page ideas
+## Community Feedback
 
-The Housing Finder website will include but are not limited to:
-* Landing page
-* Admin home page
-* Landlord home page
-* User home page
-* Guest home page (default if not logged in)
-* User Profile page
-* Landlord Profile page
-* Categories page
-* Category page
-* Create Listing page (listing a property for rent)
-* Property page
-* Notify admin page
+#### Response 1: A. N
+"The website is incredibly user-friendly, making it easy to navigate. Logging in and signing out is quick and effortless. I also appreciate its clean and simple design."
 
-### Use case ideas
+#### Response 2: J. SO
+"House Finders makes finding places to rent very simple and with how the website is designed. The website itself is visibly appealing, it keeps just enough information to not be over whelming while also keeping your attention to keep scrolling through the options."
 
-Whether or not the following bullet points list all pages or not, the completed use case should show an end-to-end scenario of using the system.
+#### Response 3: D. B
+"I like how this website can help students find housing that fits their price range while also giving you the option to see how many bedrooms and bathrooms etc it has. I also like how it shows the availability of the property."
 
-* Guest goes to landing page, creates an account.
-* New user goes to landing page, logs in, gets home page, sets up profile. (How do they learn how system works?)
-* New landlord goes to landing page, logs in, gets home page, sets up profile, add listings. (How do they learn how system works?)
-* Admin goes to landing page, logs in, gets home page, edits site.
-* User goes to landing page, logs in, browses categories, finds listing, contacts landlord.
-* Landlord goes to landing page, logs in, contacts user that is interested, edits listing. (Put on hold)
-* User and Landlord interact to confirm deal
-* Landlord and admin interact to remove listing. (Prevent ghosting and fraud)
-* Landlord and admin interact to ban inappropriate usage
-* User and admin interact to ban inappropriate usage
+#### Response 4: C. G
+"This site offers a wide range of useful features, such as advanced search and filters that make finding products or services incredibly easy. It also feels responsive on mobile devices."
 
-### Beyond the basics
+#### Response 5: R. K
+"It worked seamlessly and felt effortless to use. The experience was smooth, with no interruptions or delays, making navigation pleasant and efficient."
 
-After implementing the basic functionality, here are ideas for more advanced features:
+## Developer Guide
 
-* A rating/review system for renters and past tenants
-* Map-based interface to show where properties are from every UH campus
-* Sorting feature for housings based on price, location from A to B, rating, etc.
-* Mobile-friendly interface
+### Overview 
+This guide offers instructional support for developers looking to download their own version of our application for their own personal use. Please follow the steps below to ensure that your clone is created correctly.
 
-## Application walkthrough
+To download the repository, visit the official GitHub project listed in the contribution section above.
 
+### Prerequisites
+Please make sure that you have: 
+<ul>
+  <li> Node.js
+  <li> npm (node package manager)
+  <li> git
+  <li> VSCode
+</ul>
+
+### Setup
+#### 1. Clone the repository
+Please open your terminal in VSCode and type the following into it:
+```
+git clone https://github.com/house-finders/house-finders.git
+```
+#### 2. Install npm into your workspace
+Then run this line after the line above has finished running:
+```
+npm install
+```
+
+#### 3. Running the application
+To see the application as you are working on it, run: 
+```
+npm run dev
+```
+This will allow you to see what you are changing in real time
+
+## User Guide
 The application differs depending on the role that you have on the website. You can be not logged-in or logged-in as an admin, customer, or landlord. Depending on the role that your account has, the application shows different information and options displayed.
 
 ### Landing page
-When you first visit the page, it displays a page that looks like: 
+When you first visit the page, three random properties will be shown. It will display a page that looks like: 
 <br> <img src="./doc/landing-page.png" width="100%"> <br>
 
 ### Logging in
-To use this web application, an account is needed. Press the sign up button on the top right to create an account.
+To further use this web application, an account is needed. Press the sign up button on the top right to create an account.
 <br> <img src="./doc/sign-up-page.png" width="100%"> <br>
 When signing up, you will need an email and a password for the account. Additionally, the purpose for creating an account is also needed. This will determine the type of account that you will have, and allow you to access different parts of the application based on your role.
 
@@ -122,3 +133,4 @@ This includes searches for:
  - The size of the property in square feet
 
 After pressing the "Search" button after setting your parameters, properties will show up that match what you're looking for. 
+<br> <img src="./doc/search-page.png" width="100%"> <br>
