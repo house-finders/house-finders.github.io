@@ -111,3 +111,14 @@ To see all the listing you made, click on the "My Properties" button on the top.
 As an admin, you will be able to see all the accounts created on this web application. Please note that you will not be able to access this page if you are not an admin. The accounts will be listed like this:
 <br> <img src="./doc/admin-page-users.png" width="100%"> <br>
 This page contains information such as the email a user used to create an account and the role that they have.
+
+### Search
+In this section, you will be able to further explore properties efficiently depending on the search curriculum. There are various elements to narrow down your search. 
+This includes searches for:
+ - Availability of the property
+ - Price
+ - Number of bedrooms
+ - Number of bathrooms
+ - The size of the property in square feet
+
+After pressing the "Search" button after setting your parameters, properties will show up that match what you're looking for. 
