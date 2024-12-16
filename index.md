@@ -52,32 +52,37 @@ To download the repository, visit the official GitHub project listed in the cont
 ### Prerequisites
 Please make sure that you have: 
 <ul>
-  <li> Node.js
-  <li> npm (node package manager)
-  <li> git
-  <li> VSCode
+  <li> Node.js </li>
+  <li> npm (node package manager) </li>
+  <li> git </li>
+  <li> VSCode </li>
 </ul>
 
 ### Setup
 #### 1. Clone the repository
 Please open your terminal in VSCode and type the following into it:
+
 ```
 git clone https://github.com/house-finders/house-finders.git
 ```
 
 #### 2. Install npm into your workspace
 Then run this line after the line above has finished running:
+
 ```
 npm install
 ```
 
 #### 3. Running the application
 To see the application as you are working on it, run: 
+
 ```
 npm run dev
 ```
+
 This will allow you to see what you are changing in real time
 
+<br>
 ## User Guide
 The application differs depending on the role that you have on the website. You can be not logged-in or logged-in as an admin, customer, or landlord. Depending on the role that your account has, the application shows different information and options displayed.
 
@@ -123,7 +128,7 @@ To see all the listing you made, click on the "My Properties" button on the top.
 As an admin, you will be able to see all the accounts created on this web application. Please note that you will not be able to access this page if you are not an admin. The accounts will be listed like this:
 <br> <img src="./doc/admin-page-users.png" width="100%"> <br>
 This page contains information such as the email a user used to create an account and the role that they have.
-
+<br>
 ### Search
 In this section, you will be able to further explore properties efficiently depending on the search curriculum. There are various elements to narrow down your search. 
 This includes searches for:
