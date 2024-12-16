@@ -64,6 +64,7 @@ Please open your terminal in VSCode and type the following into it:
 ```
 git clone https://github.com/house-finders/house-finders.git
 ```
+
 #### 2. Install npm into your workspace
 Then run this line after the line above has finished running:
 ```
